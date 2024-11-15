@@ -1,6 +1,3 @@
 # Benchmark
-
-Repository de la matière suivante : http://i3s.unice.fr/master-info/s1/advanced-programming/
-
-Il nous a été demandé de rédiger un [Rapport](https://github.com/Mentra20/Benchmark/blob/main/JMH/CompteRendu_JMH.pdf) avec des benchmarks sur les affirmations de ce [Pdf](https://github.com/Mentra20/Benchmark/blob/main/JMH/performanceClaims.pdf).  
-[Voici le code source](https://github.com/Mentra20/Benchmark/tree/main/JMH) dans les différents répertoires.
+We were asked to write a [Report](https://github.com/Mentra20/Benchmark/blob/main/JMH/CompteRendu_JMH.pdf) with benchmarks on the claims of this [Pdf](https://github.com/Mentra20/Benchmark/blob/main/JMH/performanceClaims.pdf).   
+[Here is the source code for the various tests](https://github.com/Mentra20/Benchmark/tree/main/JMH) in the various directories.
